@@ -1,0 +1,19 @@
+{
+  "name": "contactmanager",
+  "version": "1.0.0",
+  "description": "Contact Information App",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^4.11.1",
+    "mongojs": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  
+  
+  "author": "Shamanth Kumar",
+  "license": "ISC",
+ 
