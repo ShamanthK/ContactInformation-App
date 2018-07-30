@@ -33,7 +33,7 @@ iii) EditDetails.html - HTML page for editing details.
 iv) index.html - HTML page for the main Contact Information App page.
 v) ViewDetails.html - HTML page for viewing contact details.
  
-d) app.js file
+d) app.js file - This file defines the AngularJS module and the route table.
 
 e) index.html file
 
