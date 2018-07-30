@@ -1,4 +1,11 @@
-# ContactManager.Mean
-Contact Manager App developed with MEAN Stack
+Contact Information App
 
-https://www.codeproject.com/Articles/1169143/Creating-Contact-Manager-App-with-MEAN-Stack
+Technologies Used:
+
+AngularJS
+NodeJS
+MongoDB
+Express
+
+Instructions on running the application:
+
