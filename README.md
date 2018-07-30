@@ -17,11 +17,11 @@ A 'src' folder which contains the following folders and files:
 
 a) Controller Folder - This folder contains the files for implementing controllers for different parts of the application and contains the following files:
 
--> AddContactController.js - Controller for AddContact Page.
--> DeleteContactController.js - Controller for deleting the contact.
--> EditContactController.js - Controller for editing/updating contact details.
--> HomeController.js - Controller for main Contact Information App page.
--> ViewDetailsController.js - Controller for viewing contact details.
+i) AddContactController.js - Controller for AddContact Page.
+ii) DeleteContactController.js - Controller for deleting the contact.
+iii) EditContactController.js - Controller for editing/updating contact details.
+iv) HomeController.js - Controller for main Contact Information App page.
+v) ViewDetailsController.js - Controller for viewing contact details.
 
 b) Services - Includes a file RepositoryService.js to implement different services.
 
